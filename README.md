@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Hexaton-Human
+- 👀 I’m interested in Developing
+- 🌱 I’m currently learning Luau, Python
