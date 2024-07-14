@@ -1,6 +1,6 @@
 # Lua, Python Dev
 
-![Hexaton's GitHub stats](https://github-readme-stats.vercel.app/api?username=Applehollyday7&show_icons=true&theme=radical)
+![Hexaton's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hexaton-human&show_icons=true&theme=radical)
 
 Languages & Platforms
 
